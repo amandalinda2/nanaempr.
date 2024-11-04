@@ -34,11 +34,10 @@ nav ul li a {
 }
 
 #hero {
-    background: url(Pin\ de\ Jimena\ Elías\ em\ Fondos\ _\ Fundos\ de\ tela\ iphone\,\ Papel\ de\ parede\ de\ fundo\ branco\,\ Imagem\ de\ fundo\ para\ iphone.jpeg) no-repeat center center/cover;
+    background: url('Pink\ aesthetic\ wallpaper.jpeg')
     height: 400px;
     color: rgb(0, 0, 0);
-   
-    justify-content:center;
+    justify-content: center;
     align-items: center;
     text-align: center;
 }
@@ -46,7 +45,6 @@ nav ul li a {
 #hero h2 {
     font-size: 2.5rem;
     margin-bottom: 10px;
-    
 }
 
 section {
@@ -92,7 +90,7 @@ form input, form textarea {
 }
 
 form button {
-    background-color: #008080;
+    background-color: hsl(310, 54%, 74%);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -101,11 +99,11 @@ form button {
 }
 
 form button:hover {
-    background-color: #005f5f;
+    background-color: #eb97cf;
 }
 
 footer {
-    background-color: #008080;
+    background-color: #df86d3;
     color: white;
     text-align: center;
     padding: 10px 0;
